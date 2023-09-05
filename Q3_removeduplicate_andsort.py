@@ -1,5 +1,3 @@
-print("""
-Q3 ) Write a python program to accept a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.
 
 def remove_dulpicate_sort(sentence):
   words = sentence.split()
@@ -9,4 +7,4 @@ def remove_dulpicate_sort(sentence):
 
 sentence = input("enter a sentence :")
 result = remove_dulpicate_sort(sentence)
-print(result)""")
+print(result)
