@@ -1,5 +1,4 @@
-print("""
-Q6 ) Python program to print the number of lines, words and characters present in the given file.
+
       
 def count_lines_word_characters(file_path):
   line_count = 0
@@ -24,4 +23,3 @@ word
 pyhton snake
 elephant
 cow
-""")
