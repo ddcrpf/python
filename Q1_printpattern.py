@@ -1,7 +1,6 @@
-print(  """
-  Q1 ) Write a Program to print the following pattern.
+
   
-  alphabet = "A"
+alphabet = "A"
 for i in range(1,6):
   for j in range(i*2-1):
     print(alphabet, end = "")
@@ -11,5 +10,5 @@ for i in range(1,6):
       alphabet = "A"
   print()
   
-  """)
+
   
