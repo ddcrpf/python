@@ -1,7 +1,4 @@
-print("""
-Q4) Solve the following using Recursion:
-• find the length of a string
-• find the smallest element in a list      
+
 
 def length(string):
     if string == "":
@@ -18,4 +15,4 @@ def find_min(list):
   return min(list[0], find_min(list[1:]))
 
 listA = [9,6,1,80,9]
-find_min(listA)""")
+find_min(listA)
