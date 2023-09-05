@@ -1,7 +1,4 @@
 
-Q2) Given a list of strings, count and print the number of strings where the string length is 
-2 or more & the 1st & last characters are same.
-
 def count_strings(list):
   count = 0
   for s in list:
