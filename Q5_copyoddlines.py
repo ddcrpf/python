@@ -1,5 +1,5 @@
 
-Q5 ) Python program to copy odd lines from one file to another file.
+
 
 def copy(from_file,to_file):
   file1 = open(from_file, "r")
