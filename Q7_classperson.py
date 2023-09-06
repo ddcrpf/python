@@ -1,6 +1,4 @@
-print("""
-Q7) Write a program that has a class Person, inherit a class Student from Person which is has a class MarksAttendance   
-      
+
       
 class Person:
   def __init__(self, usn, name, dob , gender):
@@ -24,4 +22,4 @@ print("name:", s.name)
 print("dob :", s.dob)
 print("gender ", s.gender)
 print("Marks:", s.marks)
-print("Attendance:", s.attandence)""")
+print("Attendance:", s.attandence)
