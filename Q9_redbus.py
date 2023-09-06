@@ -1,5 +1,4 @@
-print("""
-Q9 ) 9. Program to get all phone numbers of redbus.in by using web scraping and regular
+
   
 from urllib import request
 import re
@@ -13,5 +12,3 @@ o/p -
 65-31582888
 2023-09-05
 24595215509
-  """
-  )
