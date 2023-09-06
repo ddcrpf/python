@@ -1,5 +1,3 @@
-print(""" 
-Q10) extract all mobile numbers present in input.txt where numbers are mixed with normal text data.
 
 import re
 file1 = open("input.txt", "r")
@@ -21,4 +19,3 @@ python snake
 0011284569
 zebra
 
-""")
