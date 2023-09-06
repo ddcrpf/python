@@ -1,5 +1,3 @@
-print("""
-      
 
 from  datetime import datetime, timedelta
 
@@ -35,4 +33,4 @@ age = calc.age()
 print("age = ", age)
 
 days, hours, minutes , seconds = calc.timetobirthday()
-print(f"days {days } hours {hours}, minutes {minutes}, sec {seconds}")""")
+print(f"days {days } hours {hours}, minutes {minutes}, sec {seconds}")
